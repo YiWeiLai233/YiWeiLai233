@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3400&pause=900&color=38BDF8&center=true&vCenter=true&width=640&lines=Hi%2C+I%27m+%E5%BF%86%E4%B8%B6%E6%9C%AA%E6%9D%A5+%2F+YiWeiLai233;%E5%85%A8%E6%A0%88%E5%BC%80%E5%8F%91+%C2%B7+Java+%26+Vue+3;%E6%8A%8A%E6%83%B3%E6%B3%95%E5%81%9A%E6%88%90%E8%83%BD%E7%94%A8%E7%9A%84%E4%B8%9C%E8%A5%BF" alt="typing" />
+<img src="https://cdn.jsdelivr.net/gh/YiWeiLai233/YiWeiLai233@main/assets/header.svg" width="880" alt="Hi, I'm 忆丶未来 / YiWeiLai233" />
 
 <a href="https://yiweilai233.github.io"><img src="https://img.shields.io/badge/%E6%9C%AA%E6%9D%A5%E8%A7%82%E6%B5%8B%E7%AB%99-%E5%8D%9A%E5%AE%A2-0EA5E9?style=flat-square&logo=astro&logoColor=white" alt="blog" /></a>
 <a href="https://yiweilai233.github.io/rss.xml"><img src="https://img.shields.io/badge/RSS-%E8%AE%A2%E9%98%85-F26522?style=flat-square&logo=rss&logoColor=white" alt="rss" /></a>
